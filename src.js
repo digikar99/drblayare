@@ -37,7 +37,9 @@ function make_n_col_table(data, n){
         }
         table_body.push(`<tr>${table_row.join("\n")}</th>`);
     }
-    return `<table>${table_header}${table_body.join("\n")}</table>`;
+    return `<div style="overflow-x:auto;">
+<table>${table_header}${table_body.join("\n")}</table>
+</div>`;
 }
 
 const reload_data_fn = {};
