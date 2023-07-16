@@ -1,0 +1,168 @@
+Sr. No.
+Name of Authors
+Name of Article 
+Date of Publication
+Name of Publication
+ISBN / ISSN No.
+1
+R R Surve, H N Bhange, B L Ayare, P.M.Ingle, and P R Kolhe
+Site selection of water harvesting structure in Tetawali Watershed using Remote sensing and GIS
+2022
+The Pharama Innovation Journal
+2277-7695
+2
+D R pari H N Bhange, B L Ayare, P Ingle and M.H Tharkar
+Determination of Geoorphological characteristic of Asond Watershed using Remote sensing and GIS
+2021
+The Pharama Innovation Journal
+2277-7695
+3
+SS Salunkhe, B.L. Ayare, HN Bhange Rt Thokal, JS Dhekale and SB Nandgude
+Study of physical properties of soils from mango orchards of Ratnagiri district of Konkan region
+2021
+The Pharama Innovation Journal
+2277-7695
+4
+S.K.Kothe, B.L. Ayare, H.N.Bhange and S.T.Patil
+Performance of ANN for Rainfall Runoff prediction
+April-2019
+International Journal of Agril. Engineering, Vol.12
+0974-2662
+5
+S.K.Kothe, B.L. Ayare, H.N.Bhange and S.T.Patil
+Rainfall Runoff prediction based on Artificial Neuron Network: a case study of Priyadarshini Watershed.
+2019
+International Journal of Current Microbiology and Applied sciences
+2319-7706
+6
+Ayare, B.L and Thokal R.T.
+Performance Evaluation of Gravity fed inline drip Irrigation system.
+2018
+International Journal of Agril Engg.
+0974-2662
+7
+Devis Sibale, Mane, M.S., Patil, S.T., Ayare, B.L. and Desai, V.S.
+Effect of Irrigation levels and mulching on growth, yield, water use efficiency and economic return of Drip Irrigated Cualiflower
+Dec. 2016
+Journal of Soil and crops. Vol.26(2):261-267
+ISSN 0971-2836
+8
+Devis Sibale, Mane, M.S., Patil, S.T., Ayare, B.L. and Desai, V.S.
+Effect of mulching and Irrigation levels on soil temp., soil moisture and yield of drip Irrigated Cualiflower
+2015
+Journal of Indian Society of Coastal Agril. Research
+ISSN 0971-2836
+9
+B.L.Ayare and B.S. Dhekale
+Multiplicative Seasonal ARIMA modeling of monthly stream flow of Chority river
+2015
+International Journal of agril. Engg. Vol-8, No-1
+0976-72233
+10
+P.M.Ingle, S.E. Shinde, M.S. Mane, R. T. Thokal and B.L.Ayare
+Optimal cropping for sustainable water use in Canal command area.
+2015
+Research Journal of Recent Sciences
+2277-2502
+11
+P.M.Ingle, S.E. Shinde, M.S. Mane, R. T. Thokal and B.L.Ayare
+Performance Evaluation of Minor Irrigation Scheme
+2015
+Research Journal of Recent Sciences
+2277-2502
+12
+V.V. Deshmukh, H.N.Bhange, P.B. Rajankar, B.L.Ayare
+Estimation of runoff from Watershed using Remote sensing and GIS
+Nov. 2014
+International Journal of Engg. Innovation and Res. Vol.3
+02277-5668
+13
+V.V. Deshmukh, H.N.Bhange, P.B. Rajankar, B.L.Ayare
+Estimation of Soil erosion from Watershed using Remote sensing and GIS
+Nov. 2014
+International Journal of Engg. Innovation and Res. Vol.3
+02277-5668
+14
+M.S.Mane, S.K.Jagtap, B.L.Ayare and R.T.Thokal
+Response of Cucumber crop (Cucumissativas L.) to drip irrigation system under various mulches
+June, 2014
+Journal of Soil and Crops
+0971-2836
+15
+S.R.Ugade, B.L.Ayare, T.N.Thorat and R.T.Thokal
+Effect of irrigation and fertigation levels on yield and nutrient uptake of brinjal (Solanum melonngena L.)
+2014
+International Journal of Agril. Engg., Vol-7, No-1
+0974-2662
+16
+B.L. Ayare R.T.Thokal and T.N.Thorat
+Effect of plant spacing, irrigation and fertigation levels on growth and yeld of Brinjal under Drip irrigation system in lateritic soils of Konkan region of Maharashtra
+2013
+Journal of Indian Society of Coastal Agril. Research, Vol.31, No.1
+0972-1584
+17
+B. L. Ayare, M. S. Mane, S.T.Patil and S.S.Chavan
+Development of rainfall intensity frequency duration relationship for Wakawali of Konkan region of Maharashtra
+2012
+Journal of Indian society of Coastal agril.Research, Vol.30, No.2
+0972-1584
+18
+G.G. Kadam, M.S. Mane, S.T.Patil and B.L.Ayare
+Response of White Onion to deficit irrigation under micro-irrigation in Konkan region of Maharashtra
+2012
+Journal of Indian society of Coastal agril.Research, Vol.30, No.2
+0972-1584
+19
+B. L. Ayare, R. T. Thokal M. S. Mane, T.N.Thorat and D.J.Dabke
+Effect of micro-irrigation system on growth and yield of green Chilli in lateritic soils of Konkan region of Maharashtra
+2012
+Journal of Indian society of Coastal agril.Research, Vol.30, No.1
+0972-1584
+20
+B. L. Ayare, M. S. Mane and R. T. Thokal
+Performance evaluation of different types of emitters in coastal areas
+October, 2012
+Journal of Engineering Technology in India
+0976-1268
+21
+M. S. Mane, B. L. Ayare, R.R.Mhatre and S.M.Bal
+Development of rainfall intensity nomographfor Muldhe of South Konkan region of Maharashtra
+2011
+Journal of Indian society of Coastal agril.Research, Vol.29, No.2
+0972-1584
+22
+B. L. Ayare, M. S. Mane, Arun Sharma and J. H. Dekale
+Optimum cropping pattern in command area
+April, 2010
+International Journal of Agril. Engg.
+0974-2662
+23
+M.S.Mane, S.K.Jagap, U.S.Kadam and B.L.Ayare
+Effect of different levels of drip irrigation system coupled with various mulches on growth and yield of cucumber (Cucumis sativus L.)
+2009
+Journal of Indian society of Coastal agril.Research
+0972-1584
+24
+S. T. Patil, M. S. Mane, Ayare B. L.
+Effect of irrigation methods on yield and water requirement on summer groundnut
+2009
+Jour. of Soil and Crops
+0971-2836
+25
+M. S. Mane, U. V. Mahadkar , B. L. Ayare & T. N. Thorat
+Performance evaluation of soil conservation measures in cashew plantation grown on steep slopes of Konkan.
+Dec. 2009
+Indian Journal of Soil Conservation
+0970-3349
+26
+M. S. Mane, B. L. Ayare, D. S. Kubal
+Development of rainfall intensity nomograph for Dapoli of Konkan Region, Maharashtara
+June, 2007
+International Journal of Agri. Science
+0971-130x
+27
+M. S. Mane, B. L. Ayare, S. K. Jain
+Studies on Crop Production Functions for different crops
+2007
+New Agriculturist
+0971-0647

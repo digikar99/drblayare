@@ -1,0 +1,288 @@
+Academic Year
+Term
+Class
+Course No.
+Credit
+Course Title
+2017-18
+I
+B. Tech
+SWCE-232
+2+1
+Soil Mechanics
+
+I
+B. Tech
+SWCE-355
+2+1
+Soil and Water Conservation Engineering
+2016-17
+I
+Ph.D.(SWCE)
+SWCE-604
+2+1
+Hydrological Analysis of Watershed
+2015-16
+I
+M. Tech (SWCE)
+SWCE-502
+
+Soil and Water conservation Structures
+2014-15
+I
+B. Tech
+SWCE-232
+2+1
+Soil Mechanics
+2010-11
+I
+M. Tech (SWCE)
+SWCE-510
+3+0
+Statistical Hydrology 
+2009-10
+I
+M. Tech.
+SWCE-505
+2+1
+Project Planning for water res. Development 
+
+II
+B. Tech.
+SWCE-244
+2+1
+Soil and Water conservation Engineering 
+2008-09
+I
+T. Y. (Agri.)
+ENGG.353
+1+1
+Post Harvest Engineering 
+
+II
+M. Tech.
+SWCE-502
+2+1
+Hydrologic Time Series Analysis 
+
+
+B. Tech
+SWCE-244
+2+1
+Soil & Water conservation 
+2007-08
+I
+F.Y. (A/H/F)
+MATH-111
+1+1
+Mathematics (D.C.) 
+
+II
+Sr. B.Sc. (Agri.)
+ENGG-486
+1+1
+Micro Irrigation & Drainage Engg. 
+2005-06
+II
+F.Y. (Agri.)
+MATH-122
+0+1
+Applied Maths 
+2004-05
+I
+T.Y. B.Tech
+IDE-353
+2+1
+Advance Irrigation System Design 
+
+
+Sr. B. Tech
+IDE-486
+2+1
+Command area Dev.  Management 
+2003-04
+I
+T.Y. (Agri.)
+ENGG -353
+1+1
+Post Harvest Engineering 
+
+II
+Sr. B. Tech.
+IDE-486
+2+1
+Command area Development and Management 
+2002-03
+I
+S.Y. (For.)
+MATH-232
+0+2
+Mathematics II 
+
+I
+T.Y. (Agri.)
+ENGG.-353
+1+1
+Post Harvest Engineering 
+
+II
+F.Y. (Agri.)
+MATH-122
+0+1
+Applied Mathematics 
+
+II
+Sr. B.Sc. (Agri.)
+ENGG. 484
+1+1
+Micro Irrigation & Drainage Engineering 
+2001-02
+I
+F.Y. (A/H/F)
+MATH -111
+1+1
+Mathematic (D.C.)
+
+I
+S.Y. (For)
+MATH-232
+0+2
+Mathematics II
+
+I
+T.Y. (Agri.)
+ENGG. 353
+1+1
+Post Harvest Engineering 
+
+II
+F.Y. (Agri.)
+MATH-122
+0+1
+Applied Mathematics 
+
+II
+Sr. B.Sc. (Agri.)
+ENGG. 484
+1+1
+Micro Irrigation & Drainage 
+2000-01
+I
+F.Y. (A/H/F)
+MATH-111
+1+1
+Mathematics (D.C.) 
+
+I
+S.Y. (F)
+MATH-232
+0+2
+Mathematics II 
+
+I
+T.Y. (A)
+ENGG-353
+1+1
+Post Harvest Engineering 
+
+II
+F. Y. (A)
+MATH-122
+0+1
+Applied Mathematics 
+
+II
+Sr. B.Sc. (A/H)
+ENGG. 486
+1+1
+Post Harvest Technology 
+1999-2000
+I
+S.Y. (A/H/F)
+ENGG-233 (OLD)
+1+1
+Soil Water Conservation and Drainage Engg. 
+
+I
+T.Y. (A/H)
+ENGG-355 (A/H0
+
+Farm structures and Irrigation Engg. 
+
+II
+F.Y. (Agri.)
+MATH-122
+0+1
+Applied Mathematics 
+
+II
+Sr. B.Sc. (A/H)
+EL. ENGG-484/481
+1+1
+Drip and Sprinkler Irrigation System 
+1998-99
+I
+S.Y. (A/H/F)
+ENGG-233 (OLD)
+1+1
+Soil water conservation and Drainage Engg. 
+
+I
+T.Y.(A/H)
+ENGG-355
+1+1
+Farm Structures and Irrigation Engg. 
+
+II 
+F.Y. (Agri.)
+MATH-122
+0+1
+Applied Mathematics 
+
+II 
+Sr. B.Sc. (A/H)
+EL. ENGG. 484/481
+1+1
+Drip and Sprinkler Irrigation System 
+1997-98
+I
+S. Y. B. Sc. (A/H/F)
+ENGG – 233
+1+1
+Soil water conservation and Drainage Engineering 
+
+II
+F. Y. B. Sc. (Agri.)
+MATH-122
+1+1
+Different and Integral calculus 
+
+II
+T.Y. (For.)
+FOR-3616
+1+1
+Forest Measurement and Inventory 
+
+II
+Sr. B.Sc. (A/H)
+EL. ENGG. 484/481
+1+1
+Drip & Sprinkler Irrigation System 
+1996-97
+II
+T. Y. B.Sc. (F)
+FOR 3618
+1+1
+Forest Measurement and Inventory 
+
+II
+Sr. B.Sc. (Agri.)
+ENGG-486
+1+1
+Post Harvest Technology 
+
+II
+Sr. B. Sc. (Agri.)
+ENGG.-486
+1+1
+Micro Irrigation and Drainage Engg.

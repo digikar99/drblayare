@@ -1,0 +1,72 @@
+Sr. No.
+Name of Authors
+Name of Book
+Year of Publication
+Name of Publication
+ISBN No.
+1
+B.L.Ayare
+Jabhul Lagwad (Marathi)
+2016
+Godawa Krushi Publication,
+-
+2
+B.L.Ayare
+Seth–Tale (Marathi)
+2014
+Godawa Krushi Publication, Pune
+-
+3
+N. H. Khobragade and B. L. Ayare
+Fertilizer Management for crops (Marathi)
+2012
+Godawa Krushi Publication, Pune
+-
+4
+Dr. B. L. Ayare
+Water Soluble Fertilizers (Marathi)
+2012
+Godawa Krushi Publication, Pune
+978-81-906833-7-2
+5
+N. H. Khobragade and B. L. Ayare
+Micro Nutrients for crops (Marathi)
+2011
+Godawa Krushi Publication, Pune
+-
+6
+N. H. Khobragade and B. L. Ayare
+Soil-Water Analysis and Fertilizer Management (Marathi)
+2011
+Godawa Krushi Publication, Pune
+-
+7
+B. L. Ayare and M. S. Mane
+Panlot Shetra Vikas – Jalsandhara (Marathi)
+2011
+Godawa Krushi Publication, Pune
+-
+8
+B. L. Ayare and M. S. Mane
+Thibak Sinchan Tantra (Marathi)
+2011
+Godawa Krushi Publication, Pune
+978-81-906833-5-7
+9
+B. L. Ayare
+Fundamentals of Soil and Water Conservation Engg. (Text Book)
+2011
+Godawa Krushi Publication, Pune
+978-81-906833-1-9
+10
+M. S. Mane, and B. L. Ayare
+Principles of Sprinkler Irrigation System (Text Book)
+2007
+Jain Brothers, New Delhi
+978-81-8360-150-4
+11
+M. S. Mane, B. L. Ayare, S. S. Magar
+Principles of Drip Irrigation System (Text Book)
+2006
+Jain Brothers, New Delhi
+81-8360-026-3
